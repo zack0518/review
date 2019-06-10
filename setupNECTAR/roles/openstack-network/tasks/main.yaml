@@ -1,0 +1,4 @@
+
+- name: adding into internal network group
+  os_network:
+    name: qh2-uom-internal
